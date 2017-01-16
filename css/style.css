@@ -1,0 +1,27 @@
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.imagen{
+  text-align: center;
+  width: 80%;
+  height: 400px;
+  background-image: url("../imagenes/img1.jpg");
+  background-repeat: no-repeat;
+  /*background-size: 100% 100%;*/
+  background-color: blue;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.gradiente{
+  width: 700px;
+  height: 700px;
+background: linear-gradient(to bottom left, rgba(255,255,0,.1), rgba(255,0,255,1));
+
+/*La opacidad  va del 0 al 1*/
+  1}/*
+  background: linear-gradient(to bottom left, red,yellow, blue);
+  */
+}
